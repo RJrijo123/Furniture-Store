@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Furniture-Store/static/css/main.04c6a658.css",
+    "main.css": "/Furniture-Store/static/css/main.99bfc35b.css",
     "main.js": "/Furniture-Store/static/js/main.0a27581b.js",
     "static/media/Rectangle43.png": "/Furniture-Store/static/media/Rectangle43.40922477247fc7fb17ad.png",
     "static/media/Rectangle36.png": "/Furniture-Store/static/media/Rectangle36.c0b742bc034fa4a7e1f7.png",
@@ -46,11 +46,11 @@
     "static/media/img5.png": "/Furniture-Store/static/media/img5.dc706f374da9da8156bc.png",
     "static/media/img6.png": "/Furniture-Store/static/media/img6.4dc7b481c638736756bc.png",
     "index.html": "/Furniture-Store/index.html",
-    "main.04c6a658.css.map": "/Furniture-Store/static/css/main.04c6a658.css.map",
+    "main.99bfc35b.css.map": "/Furniture-Store/static/css/main.99bfc35b.css.map",
     "main.0a27581b.js.map": "/Furniture-Store/static/js/main.0a27581b.js.map"
   },
   "entrypoints": [
-    "static/css/main.04c6a658.css",
+    "static/css/main.99bfc35b.css",
     "static/js/main.0a27581b.js"
   ]
 }
