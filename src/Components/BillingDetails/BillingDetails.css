@@ -1,0 +1,156 @@
+.billing-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.billing-details, .order-summary {
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.billing-details {
+    width: 60%;
+}
+
+.billing-details h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.billing-row {
+    display: flex;
+    width: fit-content;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+
+.billing-row input, .billing-row select, .billing-row textarea {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+}
+
+.billing-row label {
+    margin-bottom: 5px;
+    font-weight: 500;
+}
+.billing-row .error {
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.order-summary {
+    width: 35%;
+}
+
+.order-summary h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.order-summary-product {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+
+.order-summary-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+    border-bottom: 2px solid #ddd;
+    font-weight: bold;
+    background-color: #f8f8f8;
+}
+
+.order-summary-header .order-summary-item-col {
+    flex: 1;
+    text-align: center;
+}
+
+.order-summary-header .order-summary-item-col:first-child {
+    text-align: left;
+}
+
+.order-summary-header .order-summary-item-col:nth-child(2) {
+    text-align: center;
+}
+
+.order-summary-header .order-summary-item-col:last-child {
+    text-align: right;
+}
+
+.order-summary-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+    border-bottom: 1px solid #ddd;
+}
+
+.order-summary-item-col {
+    flex: 1;
+    text-align: center;
+}
+
+.order-summary-item-col:first-child {
+    text-align: left;
+}
+
+.order-summary-item-col:nth-child(2) {
+    text-align: center;
+}
+
+.order-summary-item-col:last-child {
+    text-align: right;
+}
+
+.order-summary-total {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+.payment-methods label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.payment-details {
+    font-size: 14px;
+    color: #555;
+    margin-left: 20px;
+}
+
+.place-order-btn {
+    width: 100%;
+    padding: 15px;
+    background-color: #B88E2F;
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.place-order-btn:hover {
+    background-color: #916e25;
+}
+
+@media (max-width: 768px) {
+    .billing-container {
+        flex-direction: column;
+    }
+
+    .billing-details, .order-summary {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
