@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Furniture-Store/static/css/main.880d09ba.css",
-    "main.js": "/Furniture-Store/static/js/main.0a27581b.js",
+    "main.css": "/Furniture-Store/static/css/main.e2c01fb7.css",
+    "main.js": "/Furniture-Store/static/js/main.70de741e.js",
     "static/media/Rectangle43.png": "/Furniture-Store/static/media/Rectangle43.40922477247fc7fb17ad.png",
     "static/media/Rectangle36.png": "/Furniture-Store/static/media/Rectangle36.c0b742bc034fa4a7e1f7.png",
     "static/media/Rectangle38.png": "/Furniture-Store/static/media/Rectangle38.f26d4bfc86adb8451a5e.png",
@@ -46,11 +46,11 @@
     "static/media/img5.png": "/Furniture-Store/static/media/img5.dc706f374da9da8156bc.png",
     "static/media/img6.png": "/Furniture-Store/static/media/img6.4dc7b481c638736756bc.png",
     "index.html": "/Furniture-Store/index.html",
-    "main.880d09ba.css.map": "/Furniture-Store/static/css/main.880d09ba.css.map",
-    "main.0a27581b.js.map": "/Furniture-Store/static/js/main.0a27581b.js.map"
+    "main.e2c01fb7.css.map": "/Furniture-Store/static/css/main.e2c01fb7.css.map",
+    "main.70de741e.js.map": "/Furniture-Store/static/js/main.70de741e.js.map"
   },
   "entrypoints": [
-    "static/css/main.880d09ba.css",
-    "static/js/main.0a27581b.js"
+    "static/css/main.e2c01fb7.css",
+    "static/js/main.70de741e.js"
   ]
 }
